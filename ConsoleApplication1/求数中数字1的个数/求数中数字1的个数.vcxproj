@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{369E11EB-5723-486B-AB25-095963BE39B0}</ProjectGuid>
+    <ProjectGuid>{DFA617FB-60B4-479C-8F6C-DFC4FAFB1C27}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>点和三角形</RootNamespace>
+    <RootNamespace>求数中数字1的个数</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>1点和三角形</ProjectName>
+    <ProjectName>3求数中数字1的个数</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
