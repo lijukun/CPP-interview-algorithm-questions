@@ -48,7 +48,7 @@ int main()
 	float S_CAP = GetS(C, A, P);
 
 	float SS = S_ABP + S_BCP + S_CAP;//以P点为支点的三个小三角形面积和
-	cout << S_ABC <<" "<<SS<< endl;
+	cout << S_ABC <<" "<<SS<< endl; //
 	if (fabs(SS - S_ABC) < ABS_FLOAT_0)//两个面积差<0.0001时认为P在三角形ABC里
 	{
 		cout << "true" << endl;
