@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{369E11EB-5723-486B-AB25-095963BE39B0}</ProjectGuid>
+    <ProjectGuid>{65919832-D06D-4E18-80E1-6F6B3A4F64FC}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>点和三角形</RootNamespace>
+    <RootNamespace>是否2的倍数</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
